@@ -1,5 +1,6 @@
  [
       {
+        "id":"1",
         "Picture": "https://i.ibb.co/p3QtzT7/Health.png",
         "Title": "Clean water for children",
         "Category": "Health",
@@ -7,10 +8,12 @@
         "Card_bg": "#0052FF26",
         "Text_bg": "#0052FF",
         "Button_bg": "#e74c3c",
-        "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Description": "Without safe water, children simply cannot survive. Without safe toilets, entire communities live with human waste in their environment. Without taps and soap for handwashing, diseases spread rapidly and newborn babies risk death from infection.",
         "Price": "$199.99"
+        
       },
       {
+        "id":"2",
         "Picture": "https://i.ibb.co/TgBdtB0/Education.png",
         "Title": "Good education",
         "Category": "Education",
@@ -18,10 +21,12 @@
         "Card_bg": "#FF444A26",
         "Text_bg": "#FF444A",
         "Button_bg": "#3498db",
-        "Description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
         "Price": "$49.99"
+        
       },
       {
+        "id":"3",
         "Picture": "https://i.ibb.co/xf8tyFF/Clothing.png",
         "Title": "Used Clothing Drive",
         "Category": "Clothing",
@@ -29,10 +34,12 @@
         "Card_bg": "#79C23F26",
         "Text_bg": "#79C23F",
         "Button_bg": "#f1c40f",
-        "Description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "Description": "A used clothing drive is philanthropic activity that requests clothing donations from community members or a network of individuals for the benefit of a non profit group or group of vulnerable people. There are many benefits to organizing a used clothing drive.",
         "Price": "$79.99"
+        
       },
       {
+        "id":"4",
         "Picture": "https://i.ibb.co/B36BH4c/Food.png",
         "Title": "Better Food for Everyone",
         "Category": "Food",
@@ -40,10 +47,12 @@
         "Card_bg": "#F8714726",
         "Text_bg": "#F87147",
         "Button_bg": "#3498db",
-        "Description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "Description": "Everyone has a right to healthy and affordable food. Good food for all means ensuring that people experiencing financial crisis or food poverty can access and afford a healthy diet.",
         "Price": "$29.99"
+        
       },
       {
+        "id":"5",
         "Picture": "https://i.ibb.co/xf8tyFF/Clothing.png",
         "Title": "Used Clothing Drive",
         "Category": "Clothing",
@@ -51,10 +60,12 @@
         "Card_bg": "#79C23F26",
         "Text_bg": "#79C23F",
         "Button_bg": "#f1c40f",
-        "Description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Description": "A used clothing drive is philanthropic activity that requests clothing donations from community members or a network of individuals for the benefit of a non profit group or group of vulnerable people. There are many benefits to organizing a used clothing drive.",
         "Price": "$14.99"
+        
       },
       {
+        "id":"6",
         "Picture": "https://i.ibb.co/TgBdtB0/Education.png",
         "Title": "Good education",
         "Category": "Education",
@@ -62,10 +73,12 @@
         "Card_bg": "#FF444A26",
         "Text_bg": "#FF444A",
         "Button_bg": "#e67e22",
-        "Description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
         "Price": "$109.99"
+        
       },
       {
+        "id":"7",
         "Picture": "https://i.ibb.co/p3QtzT7/Health.png",
         "Title": "Clean water for children",
         "Category": "Health",
@@ -73,10 +86,12 @@
         "Card_bg": "#0052FF26",
         "Text_bg": "#0052FF",
         "Button_bg": "#9b59b6",
-        "Description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "Description": "Without safe water, children simply cannot survive. Without safe toilets, entire communities live with human waste in their environment. Without taps and soap for handwashing, diseases spread rapidly and newborn babies risk death from infection.",
         "Price": "$24.99"
+        
       },
       {
+        "id":"8",
         "Picture": "https://i.ibb.co/TgBdtB0/Education.png",
         "Title": "Good education",
         "Category": "Education",
@@ -84,10 +99,12 @@
         "Card_bg": "#FF444A26",
         "Text_bg": "#FF444A",
         "Button_bg": "#3498db",
-        "Description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "Description": "NThere are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
         "Price": "$299.99"
+        
       },
       {
+        "id":"9",
         "Picture": "https://i.ibb.co/xf8tyFF/Clothing.png",
         "Title": "Used Clothing Drive",
         "Category": "Clothing",
@@ -95,10 +112,12 @@
         "Card_bg": "#79C23F26",
         "Text_bg": "#79C23F",
         "Button_bg": "#e67e22",
-        "Description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+        "Description": "A used clothing drive is philanthropic activity that requests clothing donations from community members or a network of individuals for the benefit of a non profit group or group of vulnerable people. There are many benefits to organizing a used clothing drive.",
         "Price": "$79.99"
+        
       },
       {
+        "id":"10",
         "Picture": "https://i.ibb.co/B36BH4c/Food.png",
         "Title": "Better Food for Everyone",
         "Category": "Food",
@@ -106,10 +125,12 @@
         "Card_bg": "#F8714726",
         "Text_bg": "#F87147",
         "Button_bg": "#f1c40f",
-        "Description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "Description": "Everyone has a right to healthy and affordable food. Good food for all means ensuring that people experiencing financial crisis or food poverty can access and afford a healthy diet.",
         "Price": "$69.99"
+        
       },
       {
+        "id":"11",
         "Picture": "https://i.ibb.co/p3QtzT7/Health.png",
         "Title": "Clean water for children",
         "Category": "Health",
@@ -117,10 +138,12 @@
         "Card_bg": "#0052FF26",
         "Text_bg": "#0052FF",
         "Button_bg": "#e74c3c",
-        "Description": "Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+        "Description": "Without safe water, children simply cannot survive. Without safe toilets, entire communities live with human waste in their environment. Without taps and soap for handwashing, diseases spread rapidly and newborn babies risk death from infection.",
         "Price": "$9.99"
+        
       },
       {
+        "id":"12",
         "Picture": "https://i.ibb.co/B36BH4c/Food.png",
         "Title": "Better Food for Everyone",
         "Category": "Food",
@@ -128,8 +151,9 @@
         "Card_bg": "#F8714726",
         "Text_bg": "#F87147",
         "Button_bg": "#9b59b6",
-        "Description": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.",
+        "Description": "Everyone has a right to healthy and affordable food. Good food for all means ensuring that people experiencing financial crisis or food poverty can access and afford a healthy diet.",
         "Price": "$39.99"
+        
       }
     ]
   
