@@ -1,0 +1,136 @@
+ [
+      {
+        "Picture": "https://i.ibb.co/p3QtzT7/Health.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#0052FF",
+        "Card_bg": "#0052FF26",
+        "Text_bg": "#0052FF",
+        "Button_bg": "#e74c3c",
+        "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Price": "$199.99"
+      },
+      {
+        "Picture": "https://i.ibb.co/TgBdtB0/Education.png",
+        "Title": "Good education",
+        "Category": "Education",
+        "Category_bg": "#FF444A",
+        "Card_bg": "#FF444A26",
+        "Text_bg": "#FF444A",
+        "Button_bg": "#3498db",
+        "Description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Price": "$49.99"
+      },
+      {
+        "Picture": "https://i.ibb.co/xf8tyFF/Clothing.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Category_bg": "#79C23F",
+        "Card_bg": "#79C23F26",
+        "Text_bg": "#79C23F",
+        "Button_bg": "#f1c40f",
+        "Description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+        "Price": "$79.99"
+      },
+      {
+        "Picture": "https://i.ibb.co/B36BH4c/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#F87147",
+        "Card_bg": "#F8714726",
+        "Text_bg": "#F87147",
+        "Button_bg": "#3498db",
+        "Description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "Price": "$29.99"
+      },
+      {
+        "Picture": "https://i.ibb.co/xf8tyFF/Clothing.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Category_bg": "#79C23F",
+        "Card_bg": "#79C23F26",
+        "Text_bg": "#79C23F",
+        "Button_bg": "#f1c40f",
+        "Description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Price": "$14.99"
+      },
+      {
+        "Picture": "https://i.ibb.co/TgBdtB0/Education.png",
+        "Title": "Good education",
+        "Category": "Education",
+        "Category_bg": "#FF444A",
+        "Card_bg": "#FF444A26",
+        "Text_bg": "#FF444A",
+        "Button_bg": "#e67e22",
+        "Description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "Price": "$109.99"
+      },
+      {
+        "Picture": "https://i.ibb.co/p3QtzT7/Health.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#0052FF",
+        "Card_bg": "#0052FF26",
+        "Text_bg": "#0052FF",
+        "Button_bg": "#9b59b6",
+        "Description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "Price": "$24.99"
+      },
+      {
+        "Picture": "https://i.ibb.co/TgBdtB0/Education.png",
+        "Title": "Good education",
+        "Category": "Education",
+        "Category_bg": "#FF444A",
+        "Card_bg": "#FF444A26",
+        "Text_bg": "#FF444A",
+        "Button_bg": "#3498db",
+        "Description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "Price": "$299.99"
+      },
+      {
+        "Picture": "https://i.ibb.co/xf8tyFF/Clothing.png",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Category_bg": "#79C23F",
+        "Card_bg": "#79C23F26",
+        "Text_bg": "#79C23F",
+        "Button_bg": "#e67e22",
+        "Description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+        "Price": "$79.99"
+      },
+      {
+        "Picture": "https://i.ibb.co/B36BH4c/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#F87147",
+        "Card_bg": "#F8714726",
+        "Text_bg": "#F87147",
+        "Button_bg": "#f1c40f",
+        "Description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "Price": "$69.99"
+      },
+      {
+        "Picture": "https://i.ibb.co/p3QtzT7/Health.png",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#0052FF",
+        "Card_bg": "#0052FF26",
+        "Text_bg": "#0052FF",
+        "Button_bg": "#e74c3c",
+        "Description": "Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
+        "Price": "$9.99"
+      },
+      {
+        "Picture": "https://i.ibb.co/B36BH4c/Food.png",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#F87147",
+        "Card_bg": "#F8714726",
+        "Text_bg": "#F87147",
+        "Button_bg": "#9b59b6",
+        "Description": "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.",
+        "Price": "$39.99"
+      }
+    ]
+  
+  
