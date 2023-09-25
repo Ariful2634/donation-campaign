@@ -9,7 +9,7 @@
         "Text_bg": "#0052FF",
         "Button_bg": "#e74c3c",
         "Description": "Without safe water, children simply cannot survive. Without safe toilets, entire communities live with human waste in their environment. Without taps and soap for handwashing, diseases spread rapidly and newborn babies risk death from infection.",
-        "Price": "$199.99"
+        "Price": 199.99
         
       },
       {
@@ -22,7 +22,7 @@
         "Text_bg": "#FF444A",
         "Button_bg": "#3498db",
         "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-        "Price": "$49.99"
+        "Price": 49.99
         
       },
       {
@@ -35,7 +35,7 @@
         "Text_bg": "#79C23F",
         "Button_bg": "#f1c40f",
         "Description": "A used clothing drive is philanthropic activity that requests clothing donations from community members or a network of individuals for the benefit of a non profit group or group of vulnerable people. There are many benefits to organizing a used clothing drive.",
-        "Price": "$79.99"
+        "Price": 79.99
         
       },
       {
@@ -48,111 +48,111 @@
         "Text_bg": "#F87147",
         "Button_bg": "#3498db",
         "Description": "Everyone has a right to healthy and affordable food. Good food for all means ensuring that people experiencing financial crisis or food poverty can access and afford a healthy diet.",
-        "Price": "$29.99"
+        "Price": 29.99
         
       },
       {
         "id":"5",
         "Picture": "https://i.ibb.co/xf8tyFF/Clothing.png",
-        "Title": "Used Clothing Drive",
+        "Title": "The Language of Apparel",
         "Category": "Clothing",
         "Category_bg": "#79C23F",
         "Card_bg": "#79C23F26",
         "Text_bg": "#79C23F",
         "Button_bg": "#f1c40f",
-        "Description": "A used clothing drive is philanthropic activity that requests clothing donations from community members or a network of individuals for the benefit of a non profit group or group of vulnerable people. There are many benefits to organizing a used clothing drive.",
-        "Price": "$14.99"
+        "Description": "Clothing serves as more than just a practical necessity; it is a means of self-expression and protection. It encompasses the garments we wear to reflect our personal style, cultural identity, and environmental needs.",
+        "Price": 14.99
         
       },
       {
         "id":"6",
         "Picture": "https://i.ibb.co/TgBdtB0/Education.png",
-        "Title": "Good education",
+        "Title": "Gathering Knowledge",
         "Category": "Education",
         "Category_bg": "#FF444A",
         "Card_bg": "#FF444A26",
         "Text_bg": "#FF444A",
         "Button_bg": "#e67e22",
-        "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-        "Price": "$109.99"
+        "Description": " Education is the process of acquiring knowledge, skills, and values through structured learning experiences. It empowers individuals to reach their potential, participate in society, and contribute to personal and societal growth.",
+        "Price": 109.99
         
       },
       {
         "id":"7",
         "Picture": "https://i.ibb.co/p3QtzT7/Health.png",
-        "Title": "Clean water for children",
+        "Title": "Nurturing Your Health",
         "Category": "Health",
         "Category_bg": "#0052FF",
         "Card_bg": "#0052FF26",
         "Text_bg": "#0052FF",
         "Button_bg": "#9b59b6",
-        "Description": "Without safe water, children simply cannot survive. Without safe toilets, entire communities live with human waste in their environment. Without taps and soap for handwashing, diseases spread rapidly and newborn babies risk death from infection.",
-        "Price": "$24.99"
+        "Description": "Health refers to a person's overall well-being, encompassing physical, mental, and social aspects. It involves maintaining a balanced lifestyle, seeking medical care when needed, and making choices that promote longevity and vitality.",
+        "Price": 24.99
         
       },
       {
         "id":"8",
         "Picture": "https://i.ibb.co/TgBdtB0/Education.png",
-        "Title": "Good education",
+        "Title": "Learning Potential",
         "Category": "Education",
         "Category_bg": "#FF444A",
         "Card_bg": "#FF444A26",
         "Text_bg": "#FF444A",
         "Button_bg": "#3498db",
-        "Description": "NThere are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-        "Price": "$299.99"
+        "Description": "Education is a lifelong journey that equips individuals with knowledge, critical thinking skills, and the ability to adapt to an ever-changing world. It empowers people to make informed decisions, pursue their passions, and contribute positively to society's progress and development.",
+        "Price": 299.99
         
       },
       {
         "id":"9",
         "Picture": "https://i.ibb.co/xf8tyFF/Clothing.png",
-        "Title": "Used Clothing Drive",
+        "Title": "Fashion and Identity",
         "Category": "Clothing",
         "Category_bg": "#79C23F",
         "Card_bg": "#79C23F26",
         "Text_bg": "#79C23F",
         "Button_bg": "#e67e22",
-        "Description": "A used clothing drive is philanthropic activity that requests clothing donations from community members or a network of individuals for the benefit of a non profit group or group of vulnerable people. There are many benefits to organizing a used clothing drive.",
-        "Price": "$79.99"
+        "Description": "Clothing not only protects us from the elements but also allows us to express our unique style, culture, and identity. Fashion choices can convey personal preferences, values, and even societal trends, making clothing an integral part of human culture.",
+        "Price": 79.99
         
       },
       {
         "id":"10",
         "Picture": "https://i.ibb.co/B36BH4c/Food.png",
-        "Title": "Better Food for Everyone",
+        "Title": "Gourmet World Tour",
         "Category": "Food",
         "Category_bg": "#F87147",
         "Card_bg": "#F8714726",
         "Text_bg": "#F87147",
         "Button_bg": "#f1c40f",
-        "Description": "Everyone has a right to healthy and affordable food. Good food for all means ensuring that people experiencing financial crisis or food poverty can access and afford a healthy diet.",
-        "Price": "$69.99"
+        "Description": "Food is essential for sustaining life, providing the nutrients and energy needed for growth and daily activities. It plays a crucial role in nourishing our bodies and can be a source of enjoyment and cultural significance, influencing our overall health and well-being.",
+        "Price": 69.99
         
       },
       {
         "id":"11",
         "Picture": "https://i.ibb.co/p3QtzT7/Health.png",
-        "Title": "Clean water for children",
+        "Title": "Wellness and Vitality",
         "Category": "Health",
         "Category_bg": "#0052FF",
         "Card_bg": "#0052FF26",
         "Text_bg": "#0052FF",
         "Button_bg": "#e74c3c",
-        "Description": "Without safe water, children simply cannot survive. Without safe toilets, entire communities live with human waste in their environment. Without taps and soap for handwashing, diseases spread rapidly and newborn babies risk death from infection.",
-        "Price": "$9.99"
+        "Description": "Health is a state of physical, mental, and social well-being. It involves maintaining a balanced lifestyle through regular exercise, a nutritious diet, and managing stress. Seeking medical attention when necessary and fostering positive relationships also contribute to a healthy life.",
+        "Price": 9.99
         
       },
       {
         "id":"12",
         "Picture": "https://i.ibb.co/B36BH4c/Food.png",
-        "Title": "Better Food for Everyone",
+        "Title": "Culinary Exploration",
         "Category": "Food",
         "Category_bg": "#F87147",
         "Card_bg": "#F8714726",
         "Text_bg": "#F87147",
         "Button_bg": "#9b59b6",
-        "Description": "Everyone has a right to healthy and affordable food. Good food for all means ensuring that people experiencing financial crisis or food poverty can access and afford a healthy diet.",
-        "Price": "$39.99"
+        "Description": "Food is not just sustenance; it's a reflection of culture, heritage, and personal taste. It provides the nourishment needed for growth, energy, and overall health. Exploring diverse cuisines can be a delightful journey that enriches both our palates and our understanding of the world.",
+        "Price": 39.99
         
       }
     ]

@@ -24,7 +24,7 @@ const DonationDetails = ({ donate }) => {
                     
                     <div className="w-[80px] " ><button className="px-3 rounded py-1 text-[14px] font-[500]" style={textStyle}>{Category}</button></div>
                     <p className="font-bold text-black">{Title}</p>
-                    <p className="font-bold">{Price}</p>
+                    <p className="font-bold">${Price}</p>
                     <div className="card-actions ">
                         <button className="btn text-white"style={buttonStyle}>View Details</button>
                     </div>

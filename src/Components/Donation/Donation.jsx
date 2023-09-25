@@ -22,13 +22,12 @@ const Donation = () => {
        }
     },[])
 
-    // console.log(show)
 
     return (
         <div>
           
             
-           { noDonation ? <p>There is no donation yet</p> :
+           { noDonation ? <p className="text-5xl text-center mt-20">There is no donation yet</p> :
             <div>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 max-w-6xl mx-auto gap-8 mt-8">
                     {
