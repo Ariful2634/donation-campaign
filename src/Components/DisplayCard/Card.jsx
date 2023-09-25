@@ -16,14 +16,12 @@ const Card = ({ cards }) => {
     const {id, Picture, Title, Category } = cards
 
 
-    const cardHandle = ()=>{
-        console.log('click')
-    }
+    
 
     return (
         <div >
             <Link to={`/details/${id}`}>
-            <div onClick={cardHandle} className="card shadow-xl" style={displayStyle}>
+            <div  className="card shadow-xl" style={displayStyle}>
                 <figure><img  src={Picture} alt="Shoes" /></figure>
                 <div className="card-body">
                     <div className="w-[80px] " ><button className="px-3 rounded py-1 text-[14px] font-[500]" style={buttonStyle}>{Category}</button></div>
