@@ -21,7 +21,6 @@ const Donation = () => {
             setNoDonation("There is no donation yet")
         }
     }, [])
-    console.log(donation.length)
 
 
     return (
