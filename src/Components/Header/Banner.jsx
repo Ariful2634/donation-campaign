@@ -31,7 +31,7 @@ const Banner = () => {
 
     return (
         <div>
-            <div className="bg-[url('/src/assets/Rectangle-4281.png')] bg-white bg-opacity-90 bg-cover bg-blend-overlay bg-no-repeat h-[80vh] py-24 md:py-48 lg:py-48">
+            <div className="bg-[url('/src/assets/Rectangle-4281.png')] bg-white bg-opacity-90 bg-cover bg-blend-overlay bg-no-repeat h-[80vh] py-16 md:py-48 lg:py-48">
                 <div>
                     <h2 className='text-black text-2xl md:text-4xl lg:text-4xl flex justify-center items-center font-semibold'>I Grow By Helping People In Need</h2>
                 </div>
@@ -39,8 +39,8 @@ const Banner = () => {
                     <div className="form-control">
                         <div className="input-group flex justify-center items-center">
                             <form onSubmit={sub}>
-                                <input onChange={nam} type="text" placeholder="Search Here…" name="name" className="input input-bordered" />
-                                <button onClick={func} className="btn btn-error">
+                                <input onChange={nam} type="text" placeholder="Search Here…" name="name" className="input input-bordered " />
+                                <button onClick={func} className="btn btn-error text-white">
                                     Search
                                 </button>
                             </form>

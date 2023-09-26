@@ -1,6 +1,6 @@
  [
       {
-        "id":"1",
+        "id":1,
         "Picture": "https://i.ibb.co/p3QtzT7/Health.png",
         "Title": "Clean water for children",
         "Category": "Health",
@@ -13,7 +13,7 @@
         
       },
       {
-        "id":"2",
+        "id":2,
         "Picture": "https://i.ibb.co/TgBdtB0/Education.png",
         "Title": "Good education",
         "Category": "Education",
@@ -26,7 +26,7 @@
         
       },
       {
-        "id":"3",
+        "id":3,
         "Picture": "https://i.ibb.co/xf8tyFF/Clothing.png",
         "Title": "Used Clothing Drive",
         "Category": "Clothing",
@@ -39,7 +39,7 @@
         
       },
       {
-        "id":"4",
+        "id":4,
         "Picture": "https://i.ibb.co/B36BH4c/Food.png",
         "Title": "Better Food for Everyone",
         "Category": "Food",
@@ -52,7 +52,7 @@
         
       },
       {
-        "id":"5",
+        "id":5,
         "Picture": "https://i.ibb.co/xf8tyFF/Clothing.png",
         "Title": "The Language of Apparel",
         "Category": "Clothing",
@@ -65,7 +65,7 @@
         
       },
       {
-        "id":"6",
+        "id":6,
         "Picture": "https://i.ibb.co/TgBdtB0/Education.png",
         "Title": "Gathering Knowledge",
         "Category": "Education",
@@ -78,7 +78,7 @@
         
       },
       {
-        "id":"7",
+        "id":7,
         "Picture": "https://i.ibb.co/p3QtzT7/Health.png",
         "Title": "Nurturing Your Health",
         "Category": "Health",
@@ -91,7 +91,7 @@
         
       },
       {
-        "id":"8",
+        "id":8,
         "Picture": "https://i.ibb.co/TgBdtB0/Education.png",
         "Title": "Learning Potential",
         "Category": "Education",
@@ -104,7 +104,7 @@
         
       },
       {
-        "id":"9",
+        "id":9,
         "Picture": "https://i.ibb.co/xf8tyFF/Clothing.png",
         "Title": "Fashion and Identity",
         "Category": "Clothing",
@@ -117,7 +117,7 @@
         
       },
       {
-        "id":"10",
+        "id":10,
         "Picture": "https://i.ibb.co/B36BH4c/Food.png",
         "Title": "Gourmet World Tour",
         "Category": "Food",
@@ -130,7 +130,7 @@
         
       },
       {
-        "id":"11",
+        "id":11,
         "Picture": "https://i.ibb.co/p3QtzT7/Health.png",
         "Title": "Wellness and Vitality",
         "Category": "Health",
@@ -143,7 +143,7 @@
         
       },
       {
-        "id":"12",
+        "id":12,
         "Picture": "https://i.ibb.co/B36BH4c/Food.png",
         "Title": "Culinary Exploration",
         "Category": "Food",

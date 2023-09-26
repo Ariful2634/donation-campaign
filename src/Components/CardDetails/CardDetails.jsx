@@ -8,12 +8,13 @@ const CardDetails = () => {
     const { id } = useParams()
 
     const cards = useLoaderData()
+    // const intId = parseInt(id)
 
 
 
 
 
-    const card = cards.find(cards => cards.id === id)
+    const card = cards.find(cards => cards.id == id)
 
     const buttonStyle = {
         backgroundColor: card.Category_bg,
@@ -35,9 +36,7 @@ const CardDetails = () => {
                 localStorage.setItem('donation', JSON.stringify(donate))
                 swal("Thank You!", "You have donate successfully!", "success");
             }
-            else {
-                swal("Oops!", "You Can't donate multiple time!", "error");
-            }
+            
         }
     }
 
