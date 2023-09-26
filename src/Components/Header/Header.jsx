@@ -1,4 +1,5 @@
 import { NavLink } from "react-router-dom";
+import Image from '../../assets/Logo.png'
 import './Style.css'
 const Header = () => {
    
@@ -28,7 +29,7 @@ const Header = () => {
                         </ul>
                     </div>
                     <div>
-                        <img src="/src/assets/Logo.png" alt="" />
+                        <img src={Image} alt="" />
                     </div>
                 </div>
                 <div className="navbar-center hidden lg:flex">
