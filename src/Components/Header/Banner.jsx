@@ -26,8 +26,8 @@ const Banner = () => {
         setChange(e.target.value);
     }
 
-    // Set textValue to all data when name is empty, otherwise filter it
-    const textValue = name ? loadData.filter(item => item.Category.includes(name)) : loadData;
+    
+    const textValue = name ? loadData.filter(item => item.Category.toLowerCase().includes(name.toLowerCase())) : loadData;
 
     return (
         <div>
