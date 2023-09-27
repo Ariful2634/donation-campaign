@@ -3,39 +3,39 @@ import ApexChart from "react-apexcharts"
 
 const Statistics = () => {
 
-    const [data, setData]= useState([])
-    const [donationId,setDonationId]=useState([])
-    const [parcent,setParcent]=useState(0)
+    const [data, setData] = useState([])
+    const [donationId, setDonationId] = useState([])
+    const [parcent, setParcent] = useState(0)
 
-    useEffect(()=>{
+    useEffect(() => {
         fetch('donation.json')
-        .then(res=>res.json())
-        .then(val=>setData(val))
+            .then(res => res.json())
+            .then(val => setData(val))
         const item = JSON.parse(localStorage.getItem('donation'))
-        if(item){
+        if (item) {
             setDonationId(item)
         }
-    },[])
+    }, [])
 
-    useEffect(()=>{
-        const donationAmount = donationId.reduce((arf,singId)=>{
-            const matId = data.find((val)=>val.id===parseInt(singId.id))
-            if(matId){
-                
+    useEffect(() => {
+        const donationAmount = donationId.reduce((arf, singId) => {
+            const matId = data.find((val) => val.id === parseInt(singId.id))
+            if (matId) {
+
                 return arf + matId.Price
             }
-             return arf
-           
-        },0)
-        if(donationAmount > 0 && data.length > 0){
-            const totalDonate = data.reduce((arf, totalPrice)=> arf + totalPrice.Price,0)
+            return arf
+
+        }, 0)
+        if (donationAmount > 0 && data.length > 0) {
+            const totalDonate = data.reduce((arf, totalPrice) => arf + totalPrice.Price, 0)
             const calculate = (donationAmount / totalDonate) * 100
             setParcent(calculate)
         }
-        else{
+        else {
             setParcent(0)
         }
-    },[donationId, data])
+    }, [donationId, data])
 
     const userParcent = 100 - parcent;
     const chart = [{
@@ -46,21 +46,23 @@ const Statistics = () => {
         name: 'Total Donations',
         data: userParcent,
     }
-]
-const setting = {
-    labels: chart.map(val=> val.name),
-    legend:{
-        position: 'bottom'
+    ]
+    const setting = {
+        labels: chart.map(val => val.name),
+        legend: {
+            position: 'bottom'
+        }
+
     }
-    
-}
 
     return (
         <div className="flex justify-center mx-auto lg:mt-20">
-           <ApexChart options= {setting} series = {chart.map(val=>val.data)} type="pie" width={400}>
+            <div className="w-full md:w-2/3 lg:w-1/2">
+                <ApexChart options={setting} series={chart.map(val => val.data)} type="pie" >
 
-           </ApexChart>
-            
+                </ApexChart>
+            </div>
+
         </div>
     );
 };
